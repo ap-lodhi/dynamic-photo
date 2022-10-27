@@ -1,0 +1,75 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+  .container {
+    width: 100%;
+    min-height: 800px;
+    background: #7b7c92;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  
+  .cardContainer {
+    width: 90%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    border: 5px solid #2d2e4b;
+  }
+  
+  .card:nth-child(6n - 5) {
+    height: 25%;
+  }
+  
+  .card:nth-child(6n-4) {
+    height: 75%;
+  }
+  
+  .card:nth-child(6n-3) {
+    height: 50%;
+  }
+  
+  .card:nth-child(6n-2) {
+    height: 50%;
+  }
+  
+  .card:nth-child(6n-1) {
+    height: 66.666%;
+  }
+  
+  .card:nth-child(6n) {
+    height: 33.333%;
+  }
+  
+  .btnContainer {
+    padding: 20px 0 0 0;
+  }
+  
+ 
+  
+  button {
+    border: none;
+    outline: none;
+    padding: 10px 0;
+    width: 110px;
+    margin: 0 10px;
+    background: #050508;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+  }
