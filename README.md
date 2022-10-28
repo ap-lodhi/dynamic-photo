@@ -3,9 +3,6 @@
 # A Simple  Dynamic photo App 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![calender](https://user-images.githubusercontent.com/87072168/198588503-a8400a8c-68e9-4b5a-baca-6dc67536b04b.JPG)
-
 ## Available Scripts
 
 In the project directory, you can run:
