@@ -11,7 +11,8 @@ https://user-images.githubusercontent.com/87072168/198590525-ab970de2-c76c-431f-
 
 
 
-In the project directory, you can run:
+
+![photo](https://user-images.githubusercontent.com/87072168/198592900-c1eb6644-551b-43cf-bb70-d33d89b265bf.JPG)
 
 ### `npm start`
 
