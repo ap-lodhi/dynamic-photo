@@ -4,7 +4,8 @@
 on one click we can add photo and  we can remove  photo .
 we can add unlimited photo .
 
-## Available Scripts
+##  Demonstration
+
 
 In the project directory, you can run:
 
